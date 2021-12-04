@@ -4,7 +4,7 @@ import random
 #Chase was here
 
 
-TOKEN = "OTEzNDY4OTg4MzU1Mzc5MjEx.YZ-8Sg.Z6LoikDQmmXTgI4pzK0D-P-p8Mo"
+TOKEN = input("TOKEN: ")
 
 client = discord.Client()
 
